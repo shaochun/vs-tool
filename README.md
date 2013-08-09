@@ -1,4 +1,11 @@
-vs-tool
+vs-tool (2012)
+=======
+
+- a quick fix making the original vs-tool work with Visual Studio 2012.
+- copy the V110 folder here: C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\
+
+
+vs-tool (2010)
 =======
 
 vs-tool is a Visual Studio 2010 plugin to integrate external compiler/linker toolchains to the VS IDE.
