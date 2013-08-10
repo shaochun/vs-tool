@@ -3,7 +3,7 @@ vs-tool (2012)
 
 - a quick fix making the original vs-tool work with Visual Studio 2012.
 - quick start: copy the V110 folder to: C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\
-- known issue: MSB4096: The item <cpp file> in item list "ClCompile" does not define a value for metadata "ProgramDataBaseFileName"
+- known issue: MSB4096: The item <cpp file> in item list "ClCompile" does not define a value for metadata "ProgramDataBaseFileName" (havn't found a solution yet)
 
 vs-tool (2010)
 =======
